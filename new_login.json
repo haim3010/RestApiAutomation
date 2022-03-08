@@ -1,0 +1,18 @@
+{
+  "clientDetails": {
+    "bankId": 3073,
+    "branchId": 505,
+    "accountId": 7546838,
+    "division": 515,
+    "clientID": "704429242",
+    "executeClient": "1docbrbl"
+  },
+  "userDetails": {
+    "executeBranchId": 518,
+    "executeUser": "m9guv",
+    "executedivision": 515,
+    "ouId": 41,
+    "roleID": "911",
+    "user": "m9guv"
+  }
+}

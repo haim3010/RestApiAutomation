@@ -1,0 +1,26 @@
+{
+    "accountDivision": 515,
+    "listedProductId": null,
+    "proposedDeposit":{
+       "barrier": 0.5,
+       "cap": 0,
+       "capitalProtection": 0.95,
+       "currency": "USD",
+       "firstFinalValuationDate": null,
+       "firstPaymentDate": null,
+       "interest": 0,
+       "interestCap": 0,
+       "interestFloor": 0,
+       "mechanism": 2,
+       "nominalAmount": 500000,
+       "participation": 0.5,
+       "period": 36,
+       "rebate": 0.05,
+       "recurrence": "null",
+       "paymentRecurrence": "null",
+       "solveForFieldId": "3",
+       "underlying": "Bloomberg_AMZN UW Equity",
+       "underlyingType": 2
+    },
+  "sessionId": 123545
+}
